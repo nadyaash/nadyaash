@@ -1,16 +1,24 @@
-### Hi there 👋
+<h2 align="center">Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="15"/> I'm <a href="https://github.com/nadyaash" target="_blank">Nadya</a></h2>
+<h4 align="center">well, by now technically I'm a beginner in codding 😄</h4>
+
+
+<p><b>👀 I’m interested in</b>
+    web development</p>
+<p><b>🔭 I’m currently working on</b>
+    my mini projects on Python from a learning course</p>
+<p><b>🌱 I’m currently learning </b>
+    Python, OOP, DB, algorithms etc</p>
+<p><b>👯 I’m looking to collaborate </b> 
+    to get experience and be useful
+<p><b>🤔 I’m looking for help with </b>
+    searching my first job / internship</p>
+<p><b>📫 How to reach me: </b> 
+    by email ashkatovan@gmail.com</p>
+<h6>Ask me about whatever U want<br> 
+Pronouns: she / her</h6>
+
 
 <!--
 **nadyaash/nadyaash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
