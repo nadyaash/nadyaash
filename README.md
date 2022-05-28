@@ -1,5 +1,5 @@
 <h2 align="center">Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="15"/> I'm <a href="https://github.com/nadyaash" target="_blank">Nadya</a></h2>
-<h4 align="center">well, by now technically I'm a beginner in codding 😄</h4>
+<h4 align="center">well, by now I'm a beginner here😄</h4>
 
 
 <p><b>👀 I’m interested in</b>
