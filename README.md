@@ -3,15 +3,15 @@
 
 
 <p><b>👀 I’m interested in</b>
-    web development</p>
+    web development & data science</p>
 <p><b>🔭 I’m currently working on</b>
     my mini projects on Python from a learning course. <a href='https://stepik.org/cert/1504541'>Here's my certificate</a></p>
 <p><b>🌱 I’m currently learning </b>
     Python, OOP, DB, algorithms etc and I love it</p>
 <p><b>👯 I’m looking to collaborate </b> 
     to get experience and be useful
-<p><b>🤔 I’m looking for help with </b>
-    searching my first job / internship / project...</p>
+<p><b> I’m looking for </b>
+     my first job / internship / project...</p>
 <p><b>📫 How to reach me: </b> 
     by email ashkatovan@gmail.com</p>
 <h6>Ask me about whatever U want<br> 
