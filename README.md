@@ -10,7 +10,7 @@
     Python, OOP, DB, algorithms etc and I love it</p>
 <p><b>👯 I’m looking to collaborate </b> 
     to get experience and be useful
-<p><b> I’m looking for </b>
+<p><b>🔎 I’m looking for </b>
      my first job / internship / project...</p>
 <p><b>📫 How to reach me: </b> 
     by email ashkatovan@gmail.com</p>
